@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\maneshwar\Desktop\Publish\Registration" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="11/21/2012 19:07:06" />
+    <file relUrl="images/prev.gif" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="Scripts/jquery-ui.min.js" publishTime="11/21/2012 18:19:48" />
+    <file relUrl="Scripts/calendarDateInput.js" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="Register.aspx" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="11/21/2012 18:19:48" />
+    <file relUrl="bin/RegistrationForm.dll" publishTime="11/21/2012 19:07:06" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="11/21/2012 18:19:48" />
+    <file relUrl="css/style.css" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="bin/RegistrationForm.pdb" publishTime="11/21/2012 19:07:05" />
+    <file relUrl="images/next.gif" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="Scripts/jsDatePick.min.1.3.js" publishTime="11/21/2012 18:19:48" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="css/jquery-ui.css" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="images/calendar.jpg" publishTime="11/21/2012 18:19:47" />
+    <file relUrl="Scripts/jquery.validate.unobtrusive.min.js" publishTime="11/21/2012 18:19:48" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="11/21/2012 18:19:47" />
+  </publishProfile>
+</publishData>

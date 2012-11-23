@@ -1,0 +1,37 @@
+﻿body { margin:0; padding:0; font-family:"century Gothic", Arial, Helvetica, sans-serif; font-size:12px; color:#333;}
+* {	margin:0; padding:0;}
+
+#tblwpr { width:925px; margin:0 auto;}
+.formtabl { /*border:1px solid #ccc;*/}
+.formtabl tr td { border:1px solid #ccc; padding:3px; border-top:none;}
+.regheading { font-size:22px; color:#333; text-align:center; padding:20px 0 !important;}
+
+.basicinfo { width:456px;}
+.acadmictabl tr td { border-left:none;}
+.academicheading { text-align:center; height:76px;}
+.proftbl tr td { border-left:none;}
+table { border-collapse:collapse !important; }
+.removepadding { padding:0 !important;}
+
+.basicinfotbl tr td { border-left:none;}
+.bdrbtmnone { border-bottom:none !important;}
+.txtbx { width:100%; border:none;}
+.frmto tr td{ border:none; border-collapse:collapse; text-align:center;}
+
+.gender tr td { border:none; border-right:1px solid #b2b2b2;}
+.gender tr td input { vertical-align:bottom; margin-right:4px;}
+
+.note { font-size:14px; font-family:Times New Roman; font-style:italic; margin-top:10px;}
+.location, .numbcont { border-bottom:none !important; text-align:center;}
+.fdc { padding-left:15px!important;}
+.mandatory { font-size:14px; padding-bottom:7px;}
+.footbl, .sumtbtn { margin-top:10px;}
+.navtxtbx { border:none; width:99%; color:#333;}
+.navtxtbx1 { border:none; width:50%; color:#333;}
+.calbx { border:none; width:83px; box-shadow:0 0 1px #b2b2b2 inset; margin-right:3px;}
+.warper img { vertical-align:bottom;}
+.navtxtbx_new { border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    color:#333
+}
